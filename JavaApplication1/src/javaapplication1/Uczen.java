@@ -21,10 +21,8 @@ public class Uczen{
     }
 
     
-    void przypiszDoKlasy(int klasa){
-        
-        this.klasa=klasa;
-    }
+  
+    
     
     void nadajImie(String imie){
         
