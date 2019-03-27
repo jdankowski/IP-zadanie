@@ -25,4 +25,14 @@ public class Uczen{
         
         this.klasa=klasa;
     }
+    
+    void nadajImie(String imie){
+        
+        this.imie=imie;
+    }
+    
+    void nadajNazwisko(String nazwisko){
+        
+        this.nazwisko=nazwisko;
+    }
 }

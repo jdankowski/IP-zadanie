@@ -24,6 +24,13 @@ public class JavaApplication1 {
         System.out.println(U1.klasa);
         U2.przypiszDoKlasy(1);
         System.out.println(U2.klasa);
-    }   
+        
+        Uczen U3=new Uczen ("Adam", "Malysz", 3);
+        
+        System.out.println(U3.imie);
+        U3.nadajImie("Zdzisław");
+        System.out.println(U3.imie);
+    }  
+   
     
 }
