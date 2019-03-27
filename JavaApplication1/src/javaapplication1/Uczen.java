@@ -26,7 +26,7 @@ public class Uczen{
     
     void nadajImie(String imie){
         
-        this.imie=imie;
+        this.imie=nazwisko;
     }
     
     void nadajNazwisko(String nazwisko){
